@@ -1,0 +1,14 @@
+PRISM (nanoGPT) Public Sub-Repository
+
+This repository contains a PRISM-modified derivative of nanoGPT.
+
+Upstream nanoGPT is MIT licensed:
+Copyright (c) 2022 Andrej Karpathy
+
+The upstream license text is provided in THIRD_PARTY_LICENSES/nanogpt.MIT.txt
+
+Prism-Transformer
+Copyright 2026 Dongchen Huang
+
+This product includes software developed by Dongchen Huang
+(https://github.com/HuangDongchen).

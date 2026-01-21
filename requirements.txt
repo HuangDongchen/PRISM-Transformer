@@ -1,0 +1,8 @@
+# Public PRISM pipeline dependencies (excluding torch).
+# Install torch separately (CUDA/CPU-specific).
+tiktoken
+datasets
+tqdm
+matplotlib
+tensorboard
+
