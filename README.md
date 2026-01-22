@@ -5,7 +5,7 @@ This repository is a PRISM-modified fork of nanoGPT that adds:
 - TinyStories (GPT-2 BPE) data pipeline
 - TensorBoard + metrics logging
 - Automated visualization scripts
-
+- Paper appearing on arXiv soon
 ## One‑Click Run
 
 From the repo root:
